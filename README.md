@@ -2,7 +2,7 @@
 A small website that uses the free currency converter API to convert between currencies of different countries.
 
 The project is a challenge from the Andela Learning Community as part of the selection process for the Google Africa Scholarship.
-It uses plain javascript and css and no external libraries are used.
+It uses plain javascript and foundation css library. No other external libraries are used.
 
 As indicated in the website: https://free.currencyconverterapi.com/, the currency converter API is free and licenced under the MIT license
 
